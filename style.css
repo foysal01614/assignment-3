@@ -1,0 +1,38 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-nav{
+    
+}
+.banner-section img{
+ width: 100%;
+
+
+}
+.banner-text{
+   
+}
+.main-card section{
+
+}
+.aro-icon {
+	
+	/* width: 50px; */
+	border-radius: 22%;
+	padding: 9px;
+	font-size: 36px;
+	height: 10px;
+	color: wheat;
+    display: flex;
+    justify-content: center;
+}
+.banner-img{
+position: relative;
+}
+.banner-text{
+	position: absolute;
+left: 524px;
+top: 50%;
+}
+
+
